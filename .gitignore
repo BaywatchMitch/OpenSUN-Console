@@ -1,0 +1,9 @@
+*.project
+*.classpath
+.idea/
+.settings/
+target/
+bin/
+src/main/webapp/dist/
+src/main/webapp/node/
+src/main/webapp/node-modules/
